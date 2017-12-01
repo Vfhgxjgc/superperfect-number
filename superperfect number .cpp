@@ -1,4 +1,3 @@
-// THIS IS cpp file NOT java 
 // ConsoleApplication1.cpp : Defines the entry point for the console application.
 //let us say that 2 is superperfect number so 
 // 2 +1 = 3 -- 3 +1 = 4 --  4/2 =2 
